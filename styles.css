@@ -259,6 +259,10 @@ body {
   margin-bottom: 20px;
 }
 
+.additional-info__courses {
+  margin-bottom: 20px;
+}
+
 .additional-info__languages-header {
   color: var(--secondary-text-color);
   text-align: left;
